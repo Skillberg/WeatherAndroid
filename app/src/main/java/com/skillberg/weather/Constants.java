@@ -23,8 +23,10 @@ public class Constants {
 
     public static final String API_BASE_URL = "https://api.apixu.com/v1/";
 
+    // Ключ API для погодного сервиса
     public static final String API_KEY = "e7c4f08e606b4e62b1571802170410";
 
+    // Дефолтный запрос (запрашиваем по IP)
     public static final String AUTO_IP_QUERY = "auto:ip";
 
 }
